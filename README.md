@@ -1,6 +1,6 @@
 # Gatling Java Performance Testing Project
 
-![Gatling Logo](https://gatling.io/docs/img/gatling_logo.svg)
+![Gatling Logo](https://gatling.io/hs-fs/hubfs/Gatling-logo-RVB.png?width=160&height=28&name=Gatling-logo-RVB.png)
 
 ## 🚀 Overview
 
