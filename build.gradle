@@ -1,0 +1,2 @@
+// Root build.gradle
+// No plugins or subprojects block here. All configuration is in subproject build files.
